@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔑 KeyLogger — Educational Keystroke & Clipboard Monitor
 
 > ⚠️ **This project is for educational purposes only.**
@@ -145,7 +144,4 @@ If this project sparked your interest, here are some topics to explore further:
 ## 📄 License
 
 This project is released for educational use only. No warranty is provided. Use responsibly.
-=======
-# ZeyLogger
-Educational keylogger &amp; clipboard monitor with a multi-client server GUI — for learning purposes only.
->>>>>>> 96aec75b1263d8c16e215b0a001eba5307294b88
+
