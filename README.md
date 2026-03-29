@@ -21,10 +21,11 @@ This project consists of two Python scripts that together form a client-server k
 ## 📁 Project Structure
 
 ```
-KeyLogger/
+ZeyLogger/
 ├── client.py          # Runs on the monitored machine — captures keystrokes & clipboard
 ├── server.py          # Runs on the receiving machine — displays incoming data in a GUI
-└── requirements.txt   # Python dependencies
+├── requirements.txt   # Python dependencies
+└── README.md          # This file
 ```
 
 ---
